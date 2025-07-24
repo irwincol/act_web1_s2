@@ -1,5 +1,5 @@
 // Ejercicio 3: Clasificación de edad
-let edad = 15;
+let edad = 68;
 
 if (edad >= 0 && edad <= 12) {
     console.log("niño");
