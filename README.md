@@ -22,7 +22,7 @@
 5. **Commit / Push / PR**  
    ```bash
    git add .
-   git commit -m "feat: ejercicio X resuelto"
+   git commit -m "feat: ejercicio X resuelto"   mkdir src   mkdir src   mkdir src   mkdir src   mkdir src   mkdir src
    git push origin main
    ```
 
