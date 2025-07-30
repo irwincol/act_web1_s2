@@ -1,12 +1,13 @@
 // Ejercicio 3: Clasificación de edad
-let edad = 68;
+let edad = 30;
 
 if (edad >= 0 && edad <= 12) {
-    console.log("niño");
+    console.log(" es unniño");
 } else if (edad >= 13 && edad <= 17) {
-    console.log("adolescente");
+    console.log("es un adolescente");
 } else if (edad >= 18 && edad <= 64) {
-    console.log("adulto");
+    console.log(" es unadulto");
 } else if (edad >= 65) {
-    console.log("anciano");
+    console.log("es anciano");
 }
+

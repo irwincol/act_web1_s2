@@ -1,12 +1,19 @@
 // Ejercicio 5: Día laborable o fin de semana
 let dia = 'sabado';
-
 dia = dia.toLowerCase();
 
-if (dia === 'lunes' || dia === 'martes' || dia === 'miercoles' || dia === 'jueves' || dia === 'viernes') {
-    console.log("laborable");
-} else if (dia === 'sabado' || dia === 'domingo') {
-    console.log("fin de semana");
-} else {
-    console.log("el ingresado día no es válido");
+switch (dia) {
+    case 'lunes':
+    case 'martes':
+    case 'miercoles':
+    case 'jueves':
+    case 'viernes':
+        console.log("el dia es laborable");
+        break;
+    case 'sabado':
+    case 'domingo':
+        console.log("fin de semana");
+        break;
+    default:
+        console.log("el ingresado día no es válido");
 }
