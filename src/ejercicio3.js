@@ -2,7 +2,7 @@
 let edad = 30;
 
 if (edad >= 0 && edad <= 12) {
-    console.log(" es unniño");
+    console.log(" es un niño");
 } else if (edad >= 13 && edad <= 17) {
     console.log("es un adolescente");
 } else if (edad >= 18 && edad <= 64) {

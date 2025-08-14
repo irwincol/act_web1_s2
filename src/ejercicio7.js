@@ -14,4 +14,4 @@ if (cantidad < 10) {
 }
 
 precioFinal = precioSinDescuento - descuento;
-console.log(precioFinal.toFixed(2)); // Imprime el precio final con dos decimales
+console.log(precioFinal.toFixed(2)); //  METODO toFixd(2) Imprime el precio final con dos decimales

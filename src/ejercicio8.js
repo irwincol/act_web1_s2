@@ -12,4 +12,4 @@ if (edad < 18) {
 }
 
 precioFinal = tarifaBase - descuento;
-console.log(precioFinal.toFixed(2)); // Imprime el precio final con dos decimales
+console.log(precioFinal.toFixed(2)); 

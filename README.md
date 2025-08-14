@@ -43,8 +43,6 @@ condicionales-sin-funciones/
 
 ---
 
-77aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
-
 ---
 
 ### 2️⃣ Mayor de dos números  

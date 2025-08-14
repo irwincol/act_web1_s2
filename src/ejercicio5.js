@@ -1,6 +1,6 @@
 // Ejercicio 5: Día laborable o fin de semana
-let dia = 'sabado';
-dia = dia.toLowerCase();
+let dia = 'MIERCOLES';
+dia = dia.toLowerCase(); // toLowerCase es un metodo que se usa para devolver los String ingresados en minuscula
 
 switch (dia) {
     case 'lunes':
